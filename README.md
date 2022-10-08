@@ -7,7 +7,7 @@
 ## Guide to use the templates
 
 You will find the Templates along with the `.json` files of the templates.
-You can use the `.json` files to create the templates in your favorite editor (like VS Code).
+You can use the `.json` files to create the boilerplate of the templates in your favorite editor (like VS Code).
 
 ### Guide to make templates in VS Code
 
