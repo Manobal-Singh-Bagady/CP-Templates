@@ -16,7 +16,7 @@ To contribute to this Repo, you can:
 
 After you decide how to contribute and send me a pull request, follow these steps to have it merged:
 
-- Fork the Repo and create your branch from `master`.
+- Fork the Repo and create your branch from `main`.
 - Write an appropriate title and description for your Pull Request.
 - Describe your contribution.
 - Sit back and relax, if I find it appropriate, I will merge it.
