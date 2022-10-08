@@ -13,7 +13,7 @@ You can use the `.json` files to create the templates in your favorite editor (l
 
 - Open VS Code.
 - Click on the `Manage button`(⚙️) and then select the `Configure User Snippets`.
-- Select the language(Python here) for which you want to add the template.
+- Select the language for which you want to add the template.
 - Now a .json file will open.
 - Just paste the contents of the `.json` file in the `.json` file of VS Code.
 - You can now use the template by typing the `prefix` of the template.
